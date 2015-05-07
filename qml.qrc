@@ -1,6 +1,22 @@
 <RCC>
     <qresource prefix="/">
-        <file>main.qml</file>
-        <file>MainForm.ui.qml</file>
+        <file>MainView.qml</file>
+        <file>GameView.qml</file>
+        <file>ControlPanel.qml</file>
+        <file>MenuPanel.qml</file>
+        <file>Button.qml</file>
+        <file>Frame.qml</file>
+        <file>Explosion.qml</file>
+        <file>Switch.qml</file>
+        <file>Tile.qml</file>
+        <file>images/background.jpg</file>
+        <file>images/close.png</file>
+        <file>images/minimize.png</file>
+        <file>images/particle.png</file>
+        <file>images/quit.png</file>
+        <file>images/splash.jpg</file>
+        <file>images/tile_background.png</file>
+        <file>images/tile_button1.png</file>
+        <file>images/tile_button2.png</file>
     </qresource>
 </RCC>
